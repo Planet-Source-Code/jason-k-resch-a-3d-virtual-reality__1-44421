@@ -1,0 +1,21 @@
+35,35
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGW
+R                               W
+R     S                         W
+R                               W
+R                    YYYYYYYYYYYW
+R                    W
+R                    W
+RMMMMMMMMMMMM        W
+R                    RRRW
+R                       W
+R                       W
+R                       W
+R                       W
+BBBBBBBBBB     BBBBBBBBBW
+...G                G
+...G                G
+...G                G
+...YYYYYYY   YYYYYYYY
+.........B   B
+.........BRRRB
